@@ -1,0 +1,4 @@
+catala
+======
+
+project Catalacoin
